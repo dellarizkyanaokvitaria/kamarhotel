@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 760px;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    position: absolute;
+    top: 170px;
+    left: 48%;
+    
+}
+.form-login{
+    width: 300px;
+    height:200px;
+    text-align: center;
+    background-color: rgba(110, 95, 76, 0.4);
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-top: 200px;
+    box-shadow: 0 0px 16px 0px black;
+}
+
+    
+
